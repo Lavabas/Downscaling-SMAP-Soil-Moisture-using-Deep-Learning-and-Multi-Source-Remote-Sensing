@@ -1,0 +1,2 @@
+# Downscaling-SMAP-Soil-Moisture-using-Deep-Learning-and-Multi-Source-Remote-Sensing
+This project presents a deep learning–based spatial downscaling framework to estimate 1 km soil moisture by learning the relationship between SMAP soil moisture and multi-source Earth Observation (EO) variables. The model is trained at 10 km resolution and subsequently applied at 1 km resolution using higher-resolution predictor variables.
